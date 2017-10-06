@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Blubbsiblub
 ---
 ## A New Post
 
